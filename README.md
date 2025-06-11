@@ -9,4 +9,4 @@
 3. Файл `resume.pdf` содержит PDF-версию визитной карточки с тем же содержанием и стилем.
 
 ## Ссылка на GitHub Pages
-https://github.com/loki777t/geg/settings/pages
+https://loki777t.github.io/geg/
